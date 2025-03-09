@@ -7,4 +7,4 @@ if img is None:
 else:
     cv2.imshow('Two', img)
     cv2.waitKey(0)
-  
+   
